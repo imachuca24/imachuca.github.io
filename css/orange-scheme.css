@@ -302,6 +302,7 @@ a.menu-toggle-btn i {
   display: none;
   position: relative;
   z-index: 9999;
+  font-size: 20px;
 }
 
 /*------------------------------------------------------
